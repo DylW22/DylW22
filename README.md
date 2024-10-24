@@ -41,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a alt="Portfolio page" href="webdevdylan.netlify.app"><b>Portfolio page</b></a></td>
+      <td><a alt="Portfolio page" href="https://webdevdylan.netlify.app"><b>Portfolio page</b></a></td>
       <td>My personal portfolio!</td>
       <td>
         <p>
